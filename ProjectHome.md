@@ -1,0 +1,1 @@
+This project is currently just a prototype that combines the optical character recognition (or OCR) software [Ocrad](http://www.gnu.org/software/ocrad) with the real-time image processing framework of the [ZXing](http://code.google.com/p/zxing) project.
